@@ -1,1 +1,2 @@
 Sample text file.
+Hello! , I'm Bob - The builder.
